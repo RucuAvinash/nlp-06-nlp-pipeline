@@ -123,7 +123,7 @@ but fast, auditable preprocessing pipelines using tools like spaCy
 remain common in production when cost, speed, and
 explainability matter.
 For more see, the associated
-[documentation](https://denisecase.github.io/nlp-06-nlp-pipeline/)
+[documentation](https://RucuAvinash.github.io/nlp-06-nlp-pipeline/)
 for this project.
 
 ## Key Files
@@ -188,7 +188,7 @@ open a machine terminal in your `Repos` folder:
 
 ```shell
 # Replace username with YOUR GitHub username.
-git clone https://github.com/username/nlp-06-nlp-pipeline
+git clone https://github.com/RucuAvinash/nlp-06-nlp-pipeline
 cd nlp-06-nlp-pipeline
 code .
 ```
@@ -245,7 +245,7 @@ STAGE 01: EXTRACT starting...
 ========================
 EXTRACT: Fetching HTML from https://arxiv.org/abs/2602.20021
 SOURCE URL = https://arxiv.org/abs/2602.20021
-SINK PATH = data\raw\case_raw.html
+SINK PATH = data\raw\rucu_raw.html
 ========================
 STAGE 02: VALIDATE starting...
 ========================
@@ -350,11 +350,11 @@ PHASE 4.1: Extract tokens and summary statistics
 ========================
 PHASE 4.2: Top 20 token frequency - bar chart
 ========================
-  Saved bar chart to data\processed\case_top_tokens.png
+  Saved bar chart to data\processed\rucu_top_tokens.png
 ========================
 PHASE 4.3: Word cloud
 ========================
-  Saved word cloud to data\processed\case_wordcloud.png
+  Saved word cloud to data\processed\rucu_wordcloud.png
 ========================
 PHASE 4.4: Top token summary (inline)
 ========================
@@ -424,12 +424,12 @@ of the pipeline.
 <!-- TODO: change image links to point to your outputs -->
 <!-- For example:
 
-![Bar Chart](./data/processed/yourname_top_tokens.png)
+![Bar Chart](./data/processed/rucu_top_tokens.png)
 
-![Word Cloud](./data/processed/yourname_wordcloud.png)
+![Word Cloud](./data/processed/rucu_wordcloud.png)
 
 -->
 
-![Bar Chart](./docs/images/case_top_tokens.png)
+![Bar Chart](./docs/images/rucu_top_tokens.png)
 
-![Word Cloud](./docs/images/case_wordcloud.png)
+![Word Cloud](./docs/images/rucu_wordcloud.png)
