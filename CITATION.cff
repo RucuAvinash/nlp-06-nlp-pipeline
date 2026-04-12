@@ -1,0 +1,67 @@
+# ============================================================
+# CITATION.cff (How to cite this project)
+# ============================================================
+
+# REQ.UNIVERSAL: Professional open projects SHOULD include CITATION.cff.
+# WHY: Support correct citation and attribution.
+# ALT: Internal or private repositories may omit citation metadata.
+# CUSTOM: Update author, repository, license, and keyword fields as needed.
+# USAGE: See https://citation-file-format.github.io/ for details.
+
+cff-version: "1.2.0"
+type: software
+
+title: "Web Mining and Applied NLP 06: EVTAL NLP Pipeline"
+date-released: "2026-04-02"
+
+authors:
+  - family-names: Case
+    given-names: Denise M.
+    orcid: "https://orcid.org/0000-0001-6165-7389"
+    affiliation: "Northwest Missouri State University, USA"
+
+repository-code: "https://github.com/denisecase/nlp-06-nlp-pipeline"
+url: "https://github.com/denisecase/nlp-06-nlp-pipeline"
+license: MIT
+
+abstract: |
+  Web Mining and Applied NLP Example Project 6 - extracting structured data
+  from HTML web pages using an EVTAL pipeline, BeautifulSoup, Pandas, and spaCy.
+  Demonstrates web scraping, HTML parsing, text cleaning, tokenization, and
+  transformation of web content into analysis-ready tabular data.
+
+keywords:
+  # identity
+  - data analytics
+  - web mining
+  - web scraping
+  - natural language processing (NLP)
+
+  # concepts
+  - html parsing
+  - evtal pipeline
+  - data extraction
+  - text cleaning
+  - tokenization
+  - linguistic tokenization
+  - frequency analysis
+
+  # practices
+  - professional workflows
+  - reproducible workflows
+  - software quality
+
+  # tools and ecosystem
+  - python
+  - git
+  - github
+  - pre-commit
+  - uv
+  - ruff
+  - pandas
+  - beautifulsoup4
+  - requests
+  - spacy
+  - en-core-web-sm
+
+message: "If using this project, please cite it as described in this file."
