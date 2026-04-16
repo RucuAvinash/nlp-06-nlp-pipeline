@@ -45,7 +45,7 @@ import logging
 
 from datafun_toolkit.logger import get_logger, log_header, log_path
 
-from nlp.config_case import (
+from nlp.config_rucu import (
     DATA_PATH,
     HTTP_REQUEST_HEADERS,
     PAGE_URL,
@@ -56,9 +56,9 @@ from nlp.config_case import (
     ROOT_PATH,
 )
 from nlp.stage01_extract import run_extract
-from nlp.stage02_validate_case import run_validate
-from nlp.stage03_transform_case import run_transform
-from nlp.stage04_analyze_case import run_analyze
+from nlp.stage02_validate_rucu import run_validate
+from nlp.stage03_transform_rucu import run_transform
+from nlp.stage04_analyze_rucu import run_analyze
 from nlp.stage05_load import run_load
 
 # ============================================================

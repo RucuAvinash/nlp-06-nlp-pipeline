@@ -3,11 +3,11 @@
 <!--additional badges are common. In your custom copy of the project, change `denisecase` to your GitHub account -->
 <!--To run link checks: open your project on GitHub, click the Actions tab, select "Check Links", click "Run workflow" -->
 
-[![Docs](https://img.shields.io/badge/docs-GitHub%20Pages-blue)](https://denisecase.github.io/nlp-06-nlp-pipeline/)
+[![Docs](https://img.shields.io/badge/docs-GitHub%20Pages-blue)](https://RucuAvinash.github.io/nlp-06-nlp-pipeline/)
 [![Python 3.14+](https://img.shields.io/badge/python-3.14%2B-blue?logo=python)](#)
 [![MIT](https://img.shields.io/badge/license-see%20LICENSE-yellow.svg)](./LICENSE)
-[![CI Status](https://github.com/denisecase/nlp-06-nlp-pipeline/actions/workflows/ci-python-zensical.yml/badge.svg?branch=main)](https://github.com/denisecase/nlp-06-nlp-pipeline/actions/workflows/ci-python-zensical.yml)
-[![Check Links](https://github.com/denisecase/nlp-06-nlp-pipeline/actions/workflows/links.yml/badge.svg?branch=main)](https://github.com/denisecase/nlp-06-nlp-pipeline/actions/workflows/links.yml)
+[![CI Status](https://github.com/RucuAvinash/nlp-06-nlp-pipeline/actions/workflows/ci-python-zensical.yml/badge.svg?branch=main)](https://github.com/RucuAvinash/nlp-06-nlp-pipeline/actions/workflows/ci-python-zensical.yml)
+[![Check Links](https://github.com/RucuAvinash/nlp-06-nlp-pipeline/actions/workflows/links.yml/badge.svg?branch=main)](https://github.com/RucuAvinash/nlp-06-nlp-pipeline/actions/workflows/links.yml)
 
 > Structured EVTL pipeline for reliable extraction, cleaning, and NLP analysis of HTML web page data.
 > Adds spaCy-based text cleaning and derived NLP features to the Module 5 pipeline.
@@ -141,7 +141,7 @@ These files define the EVTL pipeline and the components you will update for your
 
 ## First: Follow These Instructions
 
-Follow the [step-by-step workflow guide](https://denisecase.github.io/pro-analytics-02/workflow-b-apply-example-project/) to complete:
+Follow the [step-by-step workflow guide](https://RucuAvinash.github.io/pro-analytics-02/workflow-b-apply-example-project/) to complete:
 
 1. Phase 1. **Start & Run**
 2. Phase 2. **Change Authorship**
