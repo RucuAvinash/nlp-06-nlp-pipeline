@@ -433,4 +433,4 @@ of the pipeline.
 ![Bar Chart](![alt text](image-2.png))
 
 ![Word Cloud](![alt text](image-1.png))
-![Tree Map] ![alt text](image.png)
+![Tree Map] (![alt text](image.png))
