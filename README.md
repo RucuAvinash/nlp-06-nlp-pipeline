@@ -141,7 +141,7 @@ These files define the EVTL pipeline and the components you will update for your
 
 ## First: Follow These Instructions
 
-Follow the [step-by-step workflow guide](https://RucuAvinash.github.io/pro-analytics-02/workflow-b-apply-example-project/) to complete:
+Follow the [step-by-step workflow guide](https://case.github.io/pro-analytics-02/workflow-b-apply-example-project/) to complete:
 
 1. Phase 1. **Start & Run**
 2. Phase 2. **Change Authorship**
